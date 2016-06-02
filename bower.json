@@ -1,0 +1,23 @@
+{
+  "name": "srt",
+  "description": "Stats for Sachin",
+  "main": "",
+  "authors": [
+    "vijay <ind.vijayworldz@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "zingchart": "^2.3.3",
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.4",
+    "font-awesome": "fontawesome#^4.6.3"
+  }
+}
