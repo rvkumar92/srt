@@ -11,7 +11,7 @@ class RenderOverview extends Component{
     };
   }
   componentWillMount(){
-    this.getTotal()
+    this.getTotal();
   }
   render(){
     return(
@@ -163,11 +163,12 @@ class RenderOverview extends Component{
         lost = 0,
         nr = 0,
         runs_conceded = 0,
-        matches = this.state.sachinData.data.length-1;
+        matches = 0;
     this.state.sachinData.data.map((data,index)=>{
       if(!isNaN(parseInt(data.batting_score))){
         runs += parseInt(data.batting_score);
       }
+      matches += 1;
       if(!isNaN(parseInt(data.wickets))){
           wickets += parseInt(data.wickets);
       }

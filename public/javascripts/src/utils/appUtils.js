@@ -5,7 +5,7 @@ import awards from '../../../data/awards.json';
 var sachinData = "";
 module.exports = {
   readFile(){
-    PapaParse.parse('http://localhost:3000/data/sachin.csv',{
+    PapaParse.parse('/data/sachin.csv',{
       download:true,
       header:true,
       complete: function(results){
