@@ -21,6 +21,6 @@ Clone the repository
 ![Years](https://github.com/rvkumar92/srt/blob/master/screenshots/years.png)
 
 ## How it is done
-The problem completed using facebook's react and flux architecture
-Data is visualized using ZingChart library.
-For dependency management npm and bower was used.
+- The problem completed using facebook's react and flux architecture
+- Data is visualized using ZingChart library.
+- For dependency management npm and bower was used.
