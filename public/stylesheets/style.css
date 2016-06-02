@@ -1,0 +1,86 @@
+body {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+header{
+  background-color: blue;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.roundBox{
+  background: #00cc00;
+border-radius: 20px;
+text-align: center;
+min-width: 100px;
+width: 20em;
+margin-right: 50px;
+color: #FFF;
+border: 1px solid peru;
+height: 10em;
+}
+#yearChart{
+  margin-top: 3%;
+}
+.west{
+  width: 87.5px;
+  height: 87.5px;
+}
+.stats{
+  font-size: 3.3em;
+}
+.awardContent{
+  font-size: xx-large;
+  margin-left: 10px;
+}
+.panelBackground{
+  background: #f1f1f1;
+  line-height: 2;
+}
+.vertical{
+  border: 1px dashed;
+    width: 0px;
+    height: 11em;
+    border-left: 0px;
+    border-top: 0px;
+    border-bottom: 0px;
+}
+.sachinImage{
+  width: 12em;
+    height: 8em;
+}
+.sign{
+  font-weight: 900;
+  font-size: 20px;
+}
+.tagline{
+  font-size: 2.2em;
+font-style: italic;
+font-weight: 600;
+margin-top: 2%;
+}
+.cardContent{
+  margin-left: 18em;
+}
+.about{
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-bottom: 2%;
+  margin-top: 1%;
+}
+.aboutText{
+  line-height: 2;
+  font-size: 15px;
+}
+.godText{
+  font-weight: 800;
+  font-size: 25px;
+}
+.nav-tabs{
+  margin-top: -2%;
+}
