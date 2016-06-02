@@ -11,7 +11,9 @@ class RenderOverview extends Component{
     };
   }
   componentWillMount(){
-    this.getTotal();
+    setTimeout(()=>{
+      this.getTotal()
+    },0);
   }
   render(){
     return(
