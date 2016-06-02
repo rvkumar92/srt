@@ -124,25 +124,25 @@ class RenderOverview extends Component{
                     <div className="col-xs-2">
                       <h4>TIME</h4>
                       <p>The God Of Big Things, As India's top cricketer--and the world's best athlete--Sachin Tendulkar carries the burden of a billion dreams...</p>
-                      <a href="http://content.time.com/time/magazine/article/0,9171,2114425,00.html">Read more...</a>
+                      <a href="http://content.time.com/time/magazine/article/0,9171,2114425,00.html" target="_blank">Read more...</a>
                     </div>
                     <div className="vertical col-xs-1"></div>
                     <div className="col-xs-2">
                     <h4>SocialCops</h4>
                     <p>What the “God of Cricket” Sachin Tendulkar taught us about building a startup...</p>
-                    <a href="http://blog.socialcops.com/team/what-sachin-tendulkar-taught-us-about-building-startup">Read more...</a>
+                    <a href="http://blog.socialcops.com/team/what-sachin-tendulkar-taught-us-about-building-startup" target="_blank">Read more...</a>
                     </div>
                     <div className="vertical col-xs-1"></div>
                     <div className="col-xs-2">
                     <h4>Cricinfo</h4>
                     <p>More than any other player, Sachin Tendulkar defined ODI cricket. To start with, he played in over half of all India's games...</p>
-                    <a href="http://www.espncricinfo.com/magazine/content/story/598770.html">Read more...</a>
+                    <a href="http://www.espncricinfo.com/magazine/content/story/598770.html" target="_blank">Read more...</a>
                     </div>
                     <div className="vertical col-xs-1"></div>
                     <div className="col-xs-2">
                     <h4>MailOnline</h4>
                     <p>Sachin was more than a cricketer... he was the embodiment of a nation coming to life</p>
-                    <a href="http://www.dailymail.co.uk/sport/cricket/article-2508281/Sachin-Tendulkar-cricketer--embodiment-nation-coming-life.html">Read more...</a>
+                    <a href="http://www.dailymail.co.uk/sport/cricket/article-2508281/Sachin-Tendulkar-cricketer--embodiment-nation-coming-life.html" target="_blank">Read more...</a>
                     </div>
                   </div>
                 </div>
