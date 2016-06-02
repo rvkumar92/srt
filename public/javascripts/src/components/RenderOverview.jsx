@@ -195,7 +195,7 @@ class RenderOverview extends Component{
         runs_conceded += parseInt(data.runs_conceded);
       }
       this.state.totalStats = {
-        matches: matches,
+        matches: matches -1,
         runs: runs,
         wickets: wickets,
         catches: catches,
