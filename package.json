@@ -22,7 +22,7 @@
     "gulp-cli": "^1.2.1",
     "hbs": "~3.1.0",
     "json-query": "^2.1.0",
-    "morgan": "~1.6.1",
+    "morgan": "~1.9.1",
     "object-assign": "^4.1.0",
     "papaparse": "^4.1.2",
     "react": "^15.1.0",
